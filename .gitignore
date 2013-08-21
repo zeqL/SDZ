@@ -1,0 +1,17 @@
+simulation
+db
+incremental_db
+output_files
+/pll.ppf
+/pll.qip
+/pll.vhd
+/PLLJ_PLLSPE_INFO.txt
+/assignment_defaults.qdf
+/game_life.vhd.bak
+/GoL_draft2.qpf
+/GoL_top.qsf
+/GoL_top.vhd.bak
+/GoL_top_tb.vhd
+/out_directory_tmp.txt.tmp
+/pll.cmp
+/VGA/vga_controller.vhd.bak
